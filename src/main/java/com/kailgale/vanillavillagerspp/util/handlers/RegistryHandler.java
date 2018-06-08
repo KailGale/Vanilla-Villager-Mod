@@ -1,4 +1,4 @@
-package com.kailgale.vanillavillagerspp.init.handlers;
+package com.kailgale.vanillavillagerspp.util.handlers;
 
 import com.kailgale.vanillavillagerspp.init.ItemInit;
 import com.kailgale.vanillavillagerspp.util.IHasModel;
