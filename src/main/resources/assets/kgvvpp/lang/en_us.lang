@@ -1,4 +1,6 @@
 itemGroup.wowawtab=WOWAW
 
-item.ingot_test.name=Test ingot
+item.ingot_test.name=Test Ingot
+
+block.block_test.name=Test Block
 
